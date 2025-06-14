@@ -1,4 +1,4 @@
 # anshulanand-demo
 This is my first Git Repository.
 <br>
-Author - Anshul Anand
+Author - Anshul (Anshul Anand)
